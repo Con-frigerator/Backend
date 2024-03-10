@@ -15,3 +15,4 @@ client.fetch(searchUrl, {}, (err, $) => {
       console.log(elementText);
     });
   }); 
+  
