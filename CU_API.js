@@ -14,4 +14,4 @@ client.fetch(searchUrl, {}, (err, $) => {
       const elementText = $(this).text();
       console.log(elementText);
     });
-  });
+  }); 
